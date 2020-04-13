@@ -1,0 +1,12 @@
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\Calculator.dll.config
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\Calculator.dll
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\Calculator.pdb
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\Castle.Core.dll
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\TestStack.White.dll
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\Castle.Core.xml
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\TestStack.White.pdb
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\TestStack.White.xml
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.dll
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.pdb
