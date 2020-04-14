@@ -21,3 +21,6 @@ D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\CalculatorTest\obj\Debug\CalculatorTes
 D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
 D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\CalculatorTest\obj\Debug\CalculatorTest.dll
 D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\CalculatorTest\obj\Debug\CalculatorTest.pdb
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\CalculatorTest\bin\Debug\Newtonsoft.Json.dll
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\CalculatorTest\bin\Debug\System.Diagnostics.Process.dll
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\CalculatorTest\bin\Debug\Newtonsoft.Json.xml

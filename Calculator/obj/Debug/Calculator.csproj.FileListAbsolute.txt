@@ -10,3 +10,5 @@ D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.csproj
 D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.csproj.CopyComplete
 D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.dll
 D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\obj\Debug\Calculator.pdb
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\Newtonsoft.Json.dll
+D:\BSU_FPMI_STUDENT\a1qa\automation\lab_3\Calculator\bin\Debug\Newtonsoft.Json.xml
